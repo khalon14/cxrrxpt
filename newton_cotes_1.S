@@ -40,7 +40,7 @@ newton_cotes_1:
 	
 	
 	movss dword ptr ds:[result], xmm0 
-	mov rax, result					  									-move Speicheradresse
+	mov rax, result					  									-move 
 
 	
 	pop r14
